@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">I currently learning to code with</h2>
 
 ###
 
