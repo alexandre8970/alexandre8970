@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I currently learning to code with</h2>
+<h2 data-importer="text" align="left">I'm currently learning to code with</h2>
 
 ###
 
@@ -25,6 +25,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="left">I'm developing my skills on a wide range of essential technologies</h2>
+
+###
+
+<p data-importer="text" align="left">🧩 Langages → HTML5, CSS3, JavaScript ES6, PHP, Python, SQL<br>      ⚙️ Frameworks → Angular, VueJS, Symfony, Flask, NodeJS<br>      🗄️ Bases de données → SQL, ORM, MongoDB<br>      🛠️ Techniques → API REST, Sécurité, DevOps<br>      🌱 Environnement → Linux<br>      📐 Méthodes → Scrum</p>
 
 ###
 
