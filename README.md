@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ 2026 marks the start of coding.<br>📚 Currently, I'm diving into Git and HTML.<br>🎯 Goals: Skilled full-stack web developer<br>🚵🏻 Hobby: Downhill Mountain Biking.</p>
+<p data-importer="text" align="left">✨ 2026 marks the start of coding.<br>📚 Currently, I'm diving into Linux.<br>🎯 Goals: Skilled full-stack web developer<br>🚵🏻 Hobby: Downhill Mountain Biking.</p>
 
 ###
 
