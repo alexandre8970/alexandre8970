@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ 2026 marks the start of coding.<br>📚 Currently, I'm diving into JavaScript.<br>🎯 Goals: Skilled full-stack web developer<br>🚵🏻 Hobby: Downhill Mountain Biking.</p>
+<p data-importer="text" align="left">✨ 2026 marks the start of coding.<br>📚 Currently, I'm diving into Angular.<br>🎯 Goals: Skilled full-stack web developer<br>🚵🏻 Hobby: Downhill Mountain Biking.</p>
 
 ###
 
@@ -32,11 +32,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left">🧩 Langages → HTML5, CSS3, JavaScript ES6, PHP, Python, SQL<br>      ⚙️ Frameworks → Angular, VueJS, Symfony, Flask, NodeJS<br>      🗄️ Bases de données → SQL, ORM, MongoDB<br>      🛠️ Techniques → API REST, Sécurité, DevOps<br>      🌱 Environnement → Linux<br>      📐 Méthodes → Scrum</p>
+<p data-importer="text" align="left">🧩 Langages → HTML5, CSS3, JavaScript ES6, PHP, Python, SQL<br>      ⚙️ Frameworks → Angular, React, VueJS, Symfony, Flask, NodeJS<br>      🗄️ Bases de données → SQL, ORM, MongoDB<br>      🛠️ Techniques → API REST, Sécurité, DevOps<br>      🌱 Environnement → Linux<br>      📐 Méthodes → Scrum</p>
 
 ###
 
